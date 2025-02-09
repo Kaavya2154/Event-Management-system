@@ -13,3 +13,6 @@ Backend:
 
 Database:
 	•	MongoDB (Mongoose ORM) – For storing user details, event information, and bookings.
+ 
+
+![21](https://github.com/user-attachments/assets/39c353f1-0e5a-4690-9be6-08be380ab182)
